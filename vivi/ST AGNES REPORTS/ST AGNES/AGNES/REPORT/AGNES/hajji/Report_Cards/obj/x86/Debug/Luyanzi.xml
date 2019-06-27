@@ -1,0 +1,340 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Luyanzi
+</name>
+</assembly>
+<members>
+<member name="M:LuyanziCollege.AlevelTotalpoints.setAgricpoints">
+	<summary>
+ Agricpoints
+ </summary>
+	<remarks></remarks>
+</member><member name="M:LuyanziCollege.AlevelTotalpoints.setfinalpoints">
+	<summary>
+ End agricpoints
+ </summary>
+	<remarks></remarks>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Actions_arrow_right_double_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Actions_arrow_right_double_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Actions_arrow_right_double_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Actions_arrow_right_double_icon3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Actions_arrow_right_double_icon4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Actions_document_edit_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Actions_document_edit_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Actions_document_edit_icon11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Actions_document_edit_icon12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Actions_document_preview_archive_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Actions_document_save_as_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Actions_document_save_as_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Actions_document_save_as_icon11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Actions_edit_redo_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Actions_edit_redo_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Actions_edit_redo_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Administrator_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Administrator_icon11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Administrator_icon12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.App_login_manager_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.App_login_manager_icon11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.App_login_manager_icon12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.App_login_manager_icon13">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Basic_Update_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Basic_Update_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Basic_Update_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Basic_Update_icon3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Basic_Update_icon4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Basic_Update_icon5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Basic_Update_icon6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.budge_001">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.BUDGE_NAPSEC">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.BUDGE_NAPSEC1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Button_Delete_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Button_Delete_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Button_Delete_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.edit_validated_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.edit_validated_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.edit_validated_icon11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.edit_validated_icon12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.edit_validated_icon13">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.edit_validated_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.edit_validated_icon3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Floppy_Small_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Floppy_Small_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Floppy_Small_icon11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Floppy_Small_icon12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Floppy_Small_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Floppy_Small_icon3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.login_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.login_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.login_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.login_icon3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Logo2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Logo21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Register_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Register_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Register_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Register_icon3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.Register_icon4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.reports_stack_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.reports_stack_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.reports_stack_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.reports_stack_icon3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.reports_stack_icon4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.reports_stack_icon5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.sicstudentinformation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.sicstudentinformation1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LuyanziCollege.My.Resources.Resources.sicstudentinformation2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:LuyanziCollege.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:LuyanziCollege.RecordMarks.v1">
+ olevel grading
+
+</member><member name="F:LuyanziCollege.RecordMarks.a1">
+ olevel grading ends
+ alevel grading
+
+</member><member name="F:LuyanziCollege.RecordMarks.v10">
+ alevel grading ends
+
+</member><member name="F:LuyanziCollege.RecordMarksALevel.v1">
+ olevel grading
+
+</member><member name="F:LuyanziCollege.RecordMarksALevel.a1">
+ olevel grading ends
+ alevel grading
+
+</member><member name="F:LuyanziCollege.RecordMarksALevel.v10">
+ alevel grading ends
+
+</member><member name="F:LuyanziCollege.EditMarks.v1">
+ olevel grading
+
+</member><member name="F:LuyanziCollege.EditMarks.a1">
+ olevel grading ends
+ alevel grading
+
+</member><member name="F:LuyanziCollege.EditMarks.v10">
+ alevel grading ends
+
+</member>
+</members>
+</doc>

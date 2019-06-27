@@ -1,0 +1,276 @@
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\Luyanzi.exe.config
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\Luyanzi.exe.manifest
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\Luyanzi.application
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\Luyanzi.exe
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\Luyanzi.pdb
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\Luyanzi.xml
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.A.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ADVANCEDLEVELMARKSHEET.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ALEVELSINGLESTUDENTSARTSREPORT.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.AlevelTotalpoints.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ANALYSISFORM.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ATOTALPOINTS.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.BOTONLYS1ANDS2.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ClassReport.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ClassreportALevelSciences.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.CONTINOUS_ASSESSEMENT_AND_MID.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.EditMarks.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.FinalRank.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.FmMain.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Login.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Form2.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.FORMBOTENDS3S4.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.GeneralArtsReport.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Generalclassreports3s4.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.GENERALMAEKSHEETS3ANDS4.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.GENERALMARKSHEETS1ANDS2.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.GetTotalpointseachstudent.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.GRAPH.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.IMPORTALEVELMARKS.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.importexcel.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.IMPORTOLEVELMARKS.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ManageDates.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.marksheets1s2.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.marksheets3s4.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.MIDREPORTSARTS.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.MIDREPORTSSCIENCIES.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Resources.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ONLYDONEMIDENDFORM.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.OverRollPerformance.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.PRINTEMPTYOLEVELMARKSHEET.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.PRINTS1_AND_S2_PERFOMANCE_LIST.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.PRINT_S3_AND_S4_PERFOMANCE_LIST.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Promotestudents.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.RankStudents.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.RecordMarks.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.RecordMarksALevel.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Regclasses.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Regstudents.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Regsubjects.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Regteachers.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.S1ANDS2MIDANDENDFORM.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.S1S2FORMBOTANDEND.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.S3PRINTOUT.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.SINGLECLASSREPORTS1S2.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.SINGLECLASSREPORTS3S4.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.SINGLE_SET_EXAMS.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Testbest8.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.UpdateDivision.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\Luyanzi.exe.manifest
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\Luyanzi.application
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\Luyanzi.exe
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\Luyanzi.xml
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\Luyanzi.pdb
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\Luyanzi.exe.config
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\Luyanzi.exe
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\Luyanzi.xml
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\Luyanzi.pdb
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\Luyanzi.exe.manifest
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\Luyanzi.application
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\Luyanzi.exe
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\Luyanzi.pdb
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\Luyanzi.xml
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.A.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ADVANCEDLEVELMARKSHEET.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ALEVELSINGLESTUDENTSARTSREPORT.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.AlevelTotalpoints.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ANALYSISFORM.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ATOTALPOINTS.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.BOTONLYS1ANDS2.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ClassReport.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ClassreportALevelSciences.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.CONTINOUS_ASSESSEMENT_AND_MID.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.EditMarks.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.FinalRank.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.FmMain.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Login.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Form2.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.FORMBOTENDS3S4.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.GeneralArtsReport.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Generalclassreports3s4.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.GENERALMAEKSHEETS3ANDS4.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.GENERALMARKSHEETS1ANDS2.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.GetTotalpointseachstudent.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.GRAPH.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.IMPORTALEVELMARKS.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.importexcel.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.IMPORTOLEVELMARKS.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ManageDates.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.marksheets1s2.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.marksheets3s4.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.MIDREPORTSARTS.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.MIDREPORTSSCIENCIES.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Resources.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ONLYDONEMIDENDFORM.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.OverRollPerformance.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.PRINTEMPTYOLEVELMARKSHEET.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.PRINTS1_AND_S2_PERFOMANCE_LIST.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.PRINT_S3_AND_S4_PERFOMANCE_LIST.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Promotestudents.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.RankStudents.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.RecordMarks.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.RecordMarksALevel.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Regclasses.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Regstudents.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Regsubjects.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Regteachers.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.S1ANDS2MIDANDENDFORM.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.S1S2FORMBOTANDEND.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.S3PRINTOUT.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.SINGLECLASSREPORTS1S2.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.SINGLECLASSREPORTS3S4.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.SINGLE_SET_EXAMS.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Testbest8.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.UpdateDivision.resources
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\Luyanzi.exe.manifest
+C:\Users\FINANCE\Desktop\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\Luyanzi.application
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\bin\Debug\Luyanzi.exe.config
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\Luyanzi.exe
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\Luyanzi.xml
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\Luyanzi.pdb
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\OrionLuyanziCollege.vbprojResolveAssemblyReference.cache
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.A.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ADVANCEDLEVELMARKSHEET.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ALEVELSINGLESTUDENTSARTSREPORT.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.AlevelTotalpoints.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ANALYSISFORM.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ATOTALPOINTS.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.BOTONLYS1ANDS2.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ClassReport.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ClassreportALevelSciences.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.COMPETENCES.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.CONTINOUS_ASSESSEMENT_AND_MID.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.EditMarks.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.FinalRank.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.FmMain.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Login.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Form2.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.FORMBOTENDS3S4.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.GeneralArtsReport.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Generalclassreports3s4.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.GENERALMAEKSHEETS3ANDS4.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.GENERALMARKSHEETS1ANDS2.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.GetTotalpointseachstudent.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.GRAPH.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.IMPORTALEVELMARKS.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.importexcel.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.IMPORTOLEVELMARKS.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ManageDates.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.marksheets1s2.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.marksheets3s4.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.MIDREPORTSARTS.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.MIDREPORTSSCIENCIES.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Resources.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ONLYDONEMIDENDFORM.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.OverRollPerformance.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.PRINTEMPTYOLEVELMARKSHEET.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.PRINTS1_AND_S2_PERFOMANCE_LIST.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.PRINT_S3_AND_S4_PERFOMANCE_LIST.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Promotestudents.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.RankStudents.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.RecordMarks.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.RecordMarksALevel.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Regclasses.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Regstudents.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Regsubjects.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Regteachers.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.S1ANDS2MIDANDENDFORM.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.S1S2FORMBOTANDEND.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.S3PRINTOUT.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.SINGLECLASSREPORTS1S2.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.SINGLECLASSREPORTS3S4.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.SINGLE_SET_EXAMS.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Testbest8.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.UpdateDivision.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\OrionLuyanziCollege.vbproj.GenerateResource.Cache
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\bin\Debug\Luyanzi.exe.manifest
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\bin\Debug\Luyanzi.application
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\bin\Debug\Luyanzi.exe
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\bin\Debug\Luyanzi.pdb
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\bin\Debug\Luyanzi.xml
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\Luyanzi.exe.manifest
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\Luyanzi.application
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.PRINTCOMPETENCEREPORT.resources
+C:\Users\pro\Desktop\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Babyreports.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\bin\Debug\Luyanzi.exe.config
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\Luyanzi.exe
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\Luyanzi.xml
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\Luyanzi.pdb
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\bin\Debug\Luyanzi.exe.manifest
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\bin\Debug\Luyanzi.application
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\bin\Debug\Luyanzi.exe
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\bin\Debug\Luyanzi.pdb
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\bin\Debug\Luyanzi.xml
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\OrionLuyanziCollege.vbprojResolveAssemblyReference.cache
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.A.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ADVANCEDLEVELMARKSHEET.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ALEVELSINGLESTUDENTSARTSREPORT.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.AlevelTotalpoints.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ANALYSISFORM.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ATOTALPOINTS.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Babyreports.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.BOTONLYS1ANDS2.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ClassReport.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ClassreportALevelSciences.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.COMPETENCES.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.CONTINOUS_ASSESSEMENT_AND_MID.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.EditMarks.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.FinalRank.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.FmMain.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Login.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Form2.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.FORMBOTENDS3S4.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.GeneralArtsReport.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Generalclassreports3s4.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.GENERALMAEKSHEETS3ANDS4.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.GENERALMARKSHEETS1ANDS2.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.GetTotalpointseachstudent.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.GRAPH.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.IMPORTALEVELMARKS.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.importexcel.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.IMPORTOLEVELMARKS.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ManageDates.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.marksheets1s2.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.marksheets3s4.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.MIDREPORTSARTS.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.MIDREPORTSSCIENCIES.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Resources.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.ONLYDONEMIDENDFORM.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.OverRollPerformance.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.PRINTCOMPETENCEREPORT.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.PRINTEMPTYOLEVELMARKSHEET.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.PRINTS1_AND_S2_PERFOMANCE_LIST.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.PRINT_S3_AND_S4_PERFOMANCE_LIST.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Promotestudents.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.RankStudents.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.RecordMarks.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.RecordMarksALevel.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Regclasses.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Regstudents.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Regsubjects.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Regteachers.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.S1ANDS2MIDANDENDFORM.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.S1S2FORMBOTANDEND.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.S3PRINTOUT.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.SINGLECLASSREPORTS1S2.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.SINGLECLASSREPORTS3S4.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.SINGLE_SET_EXAMS.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.Testbest8.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\LuyanziCollege.UpdateDivision.resources
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\OrionLuyanziCollege.vbproj.GenerateResource.Cache
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\Luyanzi.exe.manifest
+E:\vivi\vivi\ST AGNES REPORTS\ST AGNES\AGNES\REPORT\AGNES\hajji\Report_Cards\obj\x86\Debug\Luyanzi.application

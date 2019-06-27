@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM">
+</Property><Property Name="Solution File" Value="C:\Users\isaac\documents\visual studio 2010\Projects\SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM\SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.sln">
+</Property><Property Name="Date" Value="Saturday, May 03, 2014">
+</Property><Property Name="Time" Value="0:47:13 AM">
+</Property></Properties><Event ErrorLevel="0" Project="Save and Retrieve Image" Source="..\..\..\..\Desktop\Save_and_Retrieve_Image\Save and Retrieve Image\Save and Retrieve Image.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Save and Retrieve Image" Source="..\..\..\..\Desktop\Save_and_Retrieve_Image\Save and Retrieve Image\Save and Retrieve Image.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Save and Retrieve Image" Source="..\..\..\..\Desktop\Save_and_Retrieve_Image\Save and Retrieve Image\Save and Retrieve Image.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

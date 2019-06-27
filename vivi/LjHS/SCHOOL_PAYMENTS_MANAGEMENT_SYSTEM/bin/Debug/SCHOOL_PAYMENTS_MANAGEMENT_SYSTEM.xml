@@ -1,0 +1,168 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM
+</name>
+</assembly>
+<members>
+<member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.Actions_arrow_right_double_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.Actions_document_edit_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.Actions_document_edit_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.Actions_document_preview_archive_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.Actions_document_preview_archive_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.Actions_document_save_as_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.Actions_edit_redo_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.Actions_edit_redo_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.Actions_edit_undo_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.Administrator_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.Administrator_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.App_login_manager_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.App_login_manager_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.Basic_Update_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.Button_Delete_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.Button_Delete_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.Button_Delete_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.download">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.Drive_Floppy_blue_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.Drive_Floppy_blue_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.edit_validated_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.Floppy_Small_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.Floppy_Small_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.Floppy_Small_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.image1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.image11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.JAMIA">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.login_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.login_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.LOGO_001">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.Logo2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.Places_repository_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.Register_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.reports_stack_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.reports_stack_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources.reports_stack_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:SCHOOL_PAYMENTS_MANAGEMENT_SYSTEM.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

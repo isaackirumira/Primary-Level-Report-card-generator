@@ -1,0 +1,1559 @@
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbproj.ResolveComReference.cache
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.manifest
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.application
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.pdb
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.xml
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.application
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+C:\Users\isaac\Desktop\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbproj.ResolveComReference.cache
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.manifest
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.application
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.pdb
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.xml
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+C:\B\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.application
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbproj.ResolveComReference.cache
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.manifest
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.application
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.application
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.pdb
+C:\LUMUZA REPORT SOFTWARE\DOS LUMUZA\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.xml
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbproj.ResolveComReference.cache
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.manifest
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.application
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.pdb
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.xml
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+D:\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.application
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.manifest
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.application
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.pdb
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.xml
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+D:\code\REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.application
+D:\code\WORKING REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+D:\code\WORKING REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+D:\code\WORKING REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+D:\code\WORKING REPORT SOFTWARE\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.manifest
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.application
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.pdb
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.xml
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.application
+D:\code\blasioreportcard\REPORT SOFTWARE\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.manifest
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.application
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.pdb
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.xml
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+D:\code\newabuaisha\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.application
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.manifest
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.application
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.pdb
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.xml
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+D:\code\newblasio\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.application
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.manifest
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.application
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.pdb
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.xml
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.application
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.CONTINOUS_ASSESSEMENT_AND_MID.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLE_SET_EXAMS.resources
+C:\Users\pro\Desktop\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.A.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.manifest
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.application
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.pdb
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.xml
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbprojResolveAssemblyReference.cache
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.A.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.CONTINOUS_ASSESSEMENT_AND_MID.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLE_SET_EXAMS.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbproj.GenerateResource.Cache
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+E:\HenryKasule\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.application
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.manifest
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.application
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.pdb
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.xml
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbprojResolveAssemblyReference.cache
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.A.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.CONTINOUS_ASSESSEMENT_AND_MID.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLE_SET_EXAMS.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbproj.GenerateResource.Cache
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+E:\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.application
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.manifest
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.application
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbprojResolveAssemblyReference.cache
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.A.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.CONTINOUS_ASSESSEMENT_AND_MID.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLE_SET_EXAMS.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbproj.GenerateResource.Cache
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.application
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.pdb
+G:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.xml
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.A.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.CONTINOUS_ASSESSEMENT_AND_MID.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLE_SET_EXAMS.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+C:\Users\Admin\Desktop\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.manifest
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.application
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.pdb
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.xml
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbprojResolveAssemblyReference.cache
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.A.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.CONTINOUS_ASSESSEMENT_AND_MID.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLE_SET_EXAMS.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbproj.GenerateResource.Cache
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.application
+D:\LUYANZI MASTER CODE\isaac report card\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.manifest
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.application
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.pdb
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.xml
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbprojResolveAssemblyReference.cache
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.A.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.CONTINOUS_ASSESSEMENT_AND_MID.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLE_SET_EXAMS.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbproj.GenerateResource.Cache
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.application
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTOLEVELMARKS.resources
+D:\isaac report details\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTALEVELMARKS.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.manifest
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.application
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.pdb
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.xml
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.A.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.CONTINOUS_ASSESSEMENT_AND_MID.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTALEVELMARKS.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTOLEVELMARKS.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLE_SET_EXAMS.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+D:\code\Namirembe hill mastercode\isaac report details GAYAZA HILL\isaac report details GAYAZA HILL\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.application
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.manifest
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.application
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.pdb
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.xml
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.A.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.CONTINOUS_ASSESSEMENT_AND_MID.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTALEVELMARKS.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTOLEVELMARKS.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLE_SET_EXAMS.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+D:\code\Namirembe hill mastercode\try save empty cells\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.application
+H:\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+H:\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.manifest
+H:\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.application
+H:\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe
+H:\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.pdb
+H:\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.xml
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbprojResolveAssemblyReference.cache
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.A.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.CONTINOUS_ASSESSEMENT_AND_MID.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTALEVELMARKS.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTOLEVELMARKS.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLE_SET_EXAMS.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbproj.GenerateResource.Cache
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+H:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.application
+G:\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+G:\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.manifest
+G:\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.application
+G:\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe
+G:\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.pdb
+G:\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.xml
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbprojResolveAssemblyReference.cache
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.A.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.CONTINOUS_ASSESSEMENT_AND_MID.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTALEVELMARKS.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTOLEVELMARKS.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLE_SET_EXAMS.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbproj.GenerateResource.Cache
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+G:\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.application
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.manifest
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.application
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.pdb
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.xml
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbprojResolveAssemblyReference.cache
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.A.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.CONTINOUS_ASSESSEMENT_AND_MID.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTALEVELMARKS.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTOLEVELMARKS.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLE_SET_EXAMS.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbproj.GenerateResource.Cache
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+H:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.application
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.manifest
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.application
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.pdb
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.xml
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.A.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.CONTINOUS_ASSESSEMENT_AND_MID.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTALEVELMARKS.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTOLEVELMARKS.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLE_SET_EXAMS.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.application
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbprojResolveAssemblyReference.cache
+G:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbproj.GenerateResource.Cache
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.manifest
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.application
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.pdb
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.xml
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbprojResolveAssemblyReference.cache
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.A.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.CONTINOUS_ASSESSEMENT_AND_MID.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTALEVELMARKS.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTOLEVELMARKS.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLE_SET_EXAMS.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbproj.GenerateResource.Cache
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+D:\LUYANZI ISAAC\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.application
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.manifest
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.application
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.pdb
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.xml
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.A.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.CONTINOUS_ASSESSEMENT_AND_MID.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTALEVELMARKS.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTOLEVELMARKS.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLE_SET_EXAMS.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+C:\Users\Fz\Desktop\FINE TEST\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.application
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.manifest
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.application
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.pdb
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.xml
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbprojResolveAssemblyReference.cache
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.A.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.CONTINOUS_ASSESSEMENT_AND_MID.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTALEVELMARKS.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTOLEVELMARKS.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S3PRINTOUT.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLE_SET_EXAMS.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbproj.GenerateResource.Cache
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+C:\Users\Lab-2\Desktop\FINE TEST REDO\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.application
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbprojResolveAssemblyReference.cache
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.A.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.CONTINOUS_ASSESSEMENT_AND_MID.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTALEVELMARKS.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTOLEVELMARKS.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S3PRINTOUT.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLE_SET_EXAMS.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+H:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbproj.GenerateResource.Cache
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbprojResolveAssemblyReference.cache
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.A.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.CONTINOUS_ASSESSEMENT_AND_MID.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTALEVELMARKS.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTOLEVELMARKS.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S3PRINTOUT.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLE_SET_EXAMS.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+G:\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionGLUMUZA.vbproj.GenerateResource.Cache
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.config
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe.manifest
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.application
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.exe
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.pdb
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\bin\Debug\OrionMANLUMIZA.xml
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.A.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSARTSREPORT.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ALEVELSINGLESTUDENTSSCIENCEREPORT.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.AlevelTotalpoints.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ANALYSISFORM.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.BOTONLYS1ANDS2.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassReport.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ClassreportALevelSciences.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.CONTINOUS_ASSESSEMENT_AND_MID.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.EditMarks.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FinalRank.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FmMain.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Login.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Form2.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.FORMBOTENDS3S4.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GeneralArtsReport.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Generalclassreports3s4.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMAEKSHEETS3ANDS4.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GENERALMARKSHEETS1ANDS2.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.GetTotalpointseachstudent.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTALEVELMARKS.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.importexcel.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.IMPORTOLEVELMARKS.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ManageDates.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets1s2.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.marksheets3s4.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSARTS.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.MIDREPORTSSCIENCIES.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Resources.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.ONLYDONEMIDENDFORM.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.OverRollPerformance.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Promotestudents.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RankStudents.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarks.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.RecordMarksALevel.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regclasses.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regstudents.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regsubjects.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Regteachers.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1ANDS2MIDANDENDFORM.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S1S2FORMBOTANDEND.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.S3PRINTOUT.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS1S2.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLECLASSREPORTS3S4.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.SINGLE_SET_EXAMS.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.STUDENTS_EXTRA_SUBJECTS_ALEVEL.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.Testbest8.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionL.UpdateDivision.resources
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe.manifest
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.application
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.exe
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.xml
+C:\Users\Fz\Desktop\HASAN CODE MODIFICATION\FINE TEST REDOJUSTUS\LUYANZI\REPORT\Lumuza\hajji\Report_Cards\obj\x86\Debug\OrionMANLUMIZA.pdb

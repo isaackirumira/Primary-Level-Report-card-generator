@@ -1,0 +1,64 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Orion
+</name>
+</assembly>
+<members>
+<member name="F:Orion.EditMarks.v1">
+ olevel grading
+
+</member><member name="F:Orion.EditMarks.a1">
+ olevel grading ends
+ alevel grading
+
+</member><member name="F:Orion.EditMarks.v10">
+ alevel grading ends
+
+</member><member name="M:Orion.AlevelTotalpoints.setAgricpoints">
+	<summary>
+ Agricpoints
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Orion.AlevelTotalpoints.setfinalpoints">
+	<summary>
+ End agricpoints
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Orion.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Orion.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Orion.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:Orion.RecordMarks.v1">
+ olevel grading
+
+</member><member name="F:Orion.RecordMarks.a1">
+ olevel grading ends
+ alevel grading
+
+</member><member name="F:Orion.RecordMarks.v10">
+ alevel grading ends
+
+</member><member name="F:Orion.RecordMarksALevel.v1">
+ olevel grading
+
+</member><member name="F:Orion.RecordMarksALevel.a1">
+ olevel grading ends
+ alevel grading
+
+</member><member name="F:Orion.RecordMarksALevel.v10">
+ alevel grading ends
+
+</member>
+</members>
+</doc>
